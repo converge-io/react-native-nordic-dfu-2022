@@ -1,3 +1,14 @@
+# Converge Developer Notes
+
+Why are there 3 forks of this repo in the Coverge organisation? Exellent question.
+
+Seems like the original repo is poorly maintained and we've taken some changes from different forks over the last couple of years.
+
+This is a fork of a fork which seems to have all the changes we want [Salt and pepper fork](https://github.com/Salt-PepperEngineering/react-native-nordic-dfu)
+
+This fork was done to get the changes in [this](https://github.com/Pilloxa/react-native-nordic-dfu/pull/164) PR. It appears the [previous converge fork](https://github.com/converge-io/react-native-nordic-dfu) changes are in this repo. It adds the `alternativeAdvertisingNameEnabled` feature. 
+
+
 # react-native-nordic-dfu [![npm version](https://badge.fury.io/js/react-native-nordic-dfu.svg)](https://badge.fury.io/js/react-native-nordic-dfu) [![CircleCI](https://circleci.com/gh/Pilloxa/react-native-nordic-dfu.svg?style=svg)](https://circleci.com/gh/Pilloxa/react-native-nordic-dfu) [![Known Vulnerabilities](https://snyk.io/test/github/pilloxa/react-native-nordic-dfu/badge.svg)](https://snyk.io/test/github/pilloxa/react-native-nordic-dfu)
 
 This library allows you to do a Device Firmware Update (DFU) of your nrf51 or
