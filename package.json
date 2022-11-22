@@ -1,10 +1,13 @@
 {
-  "name": "react-native-nordic-dfu",
-  "version": "3.3.0",
+  "name": "@converge-io/react-native-nordic-dfu-2022",
+  "version": "3.4.0",
   "description": "Nordic Device Firmware Update for React Native",
   "main": "index.js",
-  "url": "https://github.com/Pilloxa/react-native-nordic-dfu",
-  "repository": "Pilloxa/react-native-nordic-dfu",
+  "url": "https://github.com/converge-io/react-native-nordic-dfu-2022.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/converge-io/react-native-nordic-dfu-2022.git"
+  },
   "scripts": {
     "test": "echo \"No test specified\"",
     "precommit": "lint-staged",
