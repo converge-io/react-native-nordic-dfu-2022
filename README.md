@@ -1,8 +1,6 @@
 # Converge Developer Notes
 
-Why are there 3 forks of this repo in the Coverge organisation? Exellent question.
-
-Seems like the original repo is poorly maintained and we've taken some changes from different forks over the last couple of years.
+The original repo is poorly maintained and we've taken some changes from different forks over the last couple of years.
 
 This is a fork of a fork which seems to have all the changes we want ([Salt and pepper fork](https://github.com/Salt-PepperEngineering/react-native-nordic-dfu))
 
