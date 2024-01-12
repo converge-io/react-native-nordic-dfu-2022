@@ -1,6 +1,6 @@
 {
   "name": "@converge-io/react-native-nordic-dfu-2022",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "Nordic Device Firmware Update for React Native",
   "main": "index.js",
   "url": "https://github.com/converge-io/react-native-nordic-dfu-2022.git",
